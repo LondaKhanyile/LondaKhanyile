@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Londa Khanyile
 - 👀 I’m interested in software that solves real-world problems and makes people's lives better.
-- 🌱 I’m currently learning Full Stack Development at Melsoft Academy based in South Africa.
-- 💞️ I’m looking to collaborate on meaningful projects that I can add value to and also grow as a developer.
+- 🌱 I’m currently building Full Stack Solutions in South Africa.
 - 📫 How to reach me... lskhanyile98@gmail.com
 
 
